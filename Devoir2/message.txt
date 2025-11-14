@@ -1,0 +1,3 @@
+This is a short test message for the Selective Repeat ARQ protocol.
+It should be correctly segmented, transmitted, acknowledged, and reassembled.
+Each frame should carry a part of this message, segmented at 100 bytes.
